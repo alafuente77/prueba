@@ -1,0 +1,4 @@
+-rwxr-xr-x 2 root root 11380 Jun 13 06:58 /usr/bin/perl
+
+uid=48(apache) gid=48(apache) groups=48(apache) 
+
