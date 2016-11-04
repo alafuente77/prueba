@@ -1,3 +1,14 @@
 <?php
-print exec('id');
+$a = print exec('id');
+
 ?> 
+<html>
+<title> Pagina Prueba </title>
+<header> Wilcomen! </header>
+<h2> Guten M�rgen !</h2>
+<body>
+<h4> El path es :"<?echo $a; ?> </h4>
+</body>
+<footer><b><center> todos los derechos reservados!</center> </b></footer>
+
+</html>
