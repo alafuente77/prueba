@@ -14,4 +14,4 @@ phpinfo();
 </body>
 <footer><b><center> todos los derechos reservados!</center> </b></footer>
 
-</html>
+</html>$b = 9 * 5;
