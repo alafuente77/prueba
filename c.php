@@ -15,5 +15,7 @@ $a = print exec('id');
 <?php
 //agregamos esto
 $b = print exec('id');
-
+//agregamos dos lineas mas!!
+$c = print exec('id');
+$d = print exec('id');
 ?> 
