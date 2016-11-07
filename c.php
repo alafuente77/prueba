@@ -12,3 +12,8 @@ $a = print exec('id');
 <footer><b><center> todos los derechos reservados!</center> </b></footer>
 
 </html>
+<?php
+//agregamos esto
+$b = print exec('id');
+
+?> 
