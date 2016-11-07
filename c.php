@@ -5,7 +5,7 @@ $a = print exec('id');
 <html>
 <title> Pagina Prueba </title>
 <header> Wilcomen! </header>
-<h2> Guten Mï¿½rgen !</h2>
+<h2> Guten Mörgen !</h2>
 <body>
 <h4> El path es :"<?echo $a; ?> </h4>
 </body>
